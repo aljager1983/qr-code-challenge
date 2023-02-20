@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/aljager1983/qr-code-challenge
+- Live Site URL: https://aljager1983.github.io/qr-code-challenge/
 
 ## My process
 
@@ -54,7 +54,6 @@ Below are the code snippets for the CSS grid:
     border-radius: 20px;
 }
 ```
-
 
 
 ### Continued development
